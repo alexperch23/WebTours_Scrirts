@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\P. Lab\LR_Save\AlexPerch_WebTours\SearchAndBooking_AlexPerch
+-IE:\P. Lab\LoadRunner\include
+-ee:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\logfile.log
+e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\combined_SearchAndBooking_AlexPerch.c
+e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c

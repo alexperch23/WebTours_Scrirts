@@ -1,0 +1,20 @@
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:22: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:22: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:22: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:96: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:96: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:96: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:138: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:138: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Search.c:138: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:14: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:14: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:14: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:24: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:24: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:24: warning: unrecognized character escape sequence `\='.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: Delete.c:60: error: undeclared identifier `size'.
+Error: CCI compilation error -e:\p. lab\lr_save\alexperch_webtours\searchandbooking_alexperch\\pre_cci.c: e:\\p. lab\\lr_save\\alexperch_webtours\\searchandbooking_alexperch\\\\combined_SearchAndBooking_AlexPerch.c:8: error: 1 errors, not writing pre_cci.ci.
+Error: Vuser compilation failed. Please set CCIDebug to Off in CCI section of mdrv.dat file.
+Warning: Extension cciext.dll reports error -19797 on call to function ExtPerProcessInitialize
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.

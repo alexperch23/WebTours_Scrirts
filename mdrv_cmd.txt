@@ -1,0 +1,1 @@
+-usr "E:\P. Lab\LR_Save\AlexPerch_WebTours\SearchAndBooking_AlexPerch\SearchAndBooking_AlexPerch.usr" -compile_only -out "E:\P. Lab\LR_Save\AlexPerch_WebTours\SearchAndBooking_AlexPerch\" -drv_log_file "E:\P. Lab\LR_Save\AlexPerch_WebTours\SearchAndBooking_AlexPerch\mdrv.log" -cfg "E:\P. Lab\LR_Save\AlexPerch_WebTours\SearchAndBooking_AlexPerch\default.cfg" -product_name vugen
